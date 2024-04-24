@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner .navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner .logo {
+  margin-left: 2px;
+}
+.banner .links {
+  text-decoration: none;
+  color: rgb(3, 3, 44);
+  padding: 20px;
+}
+.banner .link {
+  color: orange;
+  text-decoration: none;
+}
+.banner .words {
+  margin-right: 25px;
+}
+.banner hr {
+  color: orange;
+  width: 60px;
+  margin: 10px;
+  margin-top: 15px;
+  border-color: orange;
+}
+.banner .line {
+  display: flex;
+}
+.banner .para1 {
+  margin: 6px;
+  margin-top: 2px;
+}
+.banner .headtext {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.banner .container {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.banner span {
+  color: orange;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+}
+.about .head {
+  color: orange;
+}
+
+.services {
+  background-color: rgb(3, 3, 44);
+  color: white;
+}
+.services .pic {
+  margin: 10px;
+  margin-right: 20px;
+}
+.services h4 {
+  color: orange;
+}
+.services .headse {
+  margin: 90px;
+}
+.services .row {
+  margin: 90px;
+}
+
+.blank {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blank .dancing {
+  margin: 20px;
+}
+.blank .btn {
+  background-color: rgb(3, 3, 44);
+  color: white;
+}/*# sourceMappingURL=style.css.map */

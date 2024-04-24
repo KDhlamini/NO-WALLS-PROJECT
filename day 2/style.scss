@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+
+.navigation{
+    display: flex;
+     justify-content:space-between;
+    align-items: center;
+
+}
+.logo{
+    margin-left: 2px;
+}
+.links{
+    text-decoration: none;
+    color: rgb(3, 3, 44);
+    padding: 20px;
+    // margin-right: 5px;
+}
+.link{
+    color: orange;
+    text-decoration: none;
+    // margin-right: 5px;
+
+}
+.words{
+    margin-right: 25px;
+}
+hr{
+    color: orange;
+    width: 60px;
+    margin: 10px;
+    margin-top: 15px;
+       
+    // border: 20px;
+    border-color: orange;
+}
+.line{
+     display: flex;
+}
+.para1{
+    margin: 6px;
+    margin-top: 2px;
+}
+.headtext{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
+span{
+    color: orange;
+}
+
+
+}
+.about{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+
+    .head{
+        color: orange;
+    }
+}
+
+.services{
+    background-color: rgb(3, 3, 44) ;
+    color: white;
+    // display: flex;
+
+    .pic{
+        margin: 10px;
+        margin-right: 20px;
+    }
+    h4{
+        color: orange;
+    }
+    .headse{
+margin: 90px;
+    }
+    .row{
+        margin: 90px;
+    }
+}
+
+.blank{
+display: flex;
+justify-content: center;
+align-items: center;
+
+.dancing{
+    margin: 20px;
+}
+// padding: 20px;
+
+    .btn{
+        background-color: rgb(3, 3, 44) ;
+        color: white;
+       
+    }
+}
+
