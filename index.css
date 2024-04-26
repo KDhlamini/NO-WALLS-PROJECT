@@ -32,7 +32,7 @@ body {
   justify-content: start;
 }
 .navbar a {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   text-decoration: none;
   font-size: 33px;
   padding: 20px;
@@ -48,7 +48,7 @@ body {
   margin-right: 30px;
 }
 .home .heading {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-size: 85px;
   color: #0A3140;
 }
@@ -62,13 +62,13 @@ body {
   display: inline-block;
 }
 .home h2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-size: 55px;
   font-weight: 999px;
   color: #0A3140;
 }
 .home p {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-weight: bolder;
 }
 .home img {
@@ -79,7 +79,7 @@ body {
 }
 
 .sec2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -94,7 +94,7 @@ body {
   color: #0A3140;
 }
 .sec2 h2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   color: rgb(215, 123, 65);
   font-size: 45px;
 }
@@ -112,7 +112,7 @@ body {
   font-family: myfont2;
 }
 .service h2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   padding-bottom: 40px;
   color: white;
   margin-left: 45px;
@@ -141,7 +141,7 @@ body {
   border: 4px rgb(215, 123, 65);
 }
 .service h5 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   color: rgb(215, 123, 65);
 }
 .service .button.active {
@@ -170,12 +170,12 @@ body {
   margin-right: 20px;
 }
 .home h1 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-size: 73px;
   font-weight: 900;
 }
 .home h2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-size: 45px;
   font-weight: 900;
 }
@@ -193,7 +193,7 @@ body {
 }
 
 .subscribe {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -256,7 +256,7 @@ body {
   color: white;
 }
 .contact .click {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   margin-left: 65px;
   margin-right: 65px;
   background-color: #0B394D;
@@ -264,7 +264,7 @@ body {
   color: white;
 }
 .contact h2 {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   color: rgb(215, 123, 65);
   font-size: 50px;
 }
@@ -284,7 +284,7 @@ body {
   margin-top: 70px;
 }
 .footer .head {
-  font-family: "myfont", BalooBhaijaan;
+  font-family: "myfont", Baloo Bhaijaan;
   font-size: x-large;
   margin-left: 90px;
   color: white;
