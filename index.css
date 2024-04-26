@@ -79,6 +79,7 @@ body {
 }
 
 .sec2 {
+  font-family: "myfont", BalooBhaijaan;
   display: flex;
   align-items: center;
   justify-content: space-around;
