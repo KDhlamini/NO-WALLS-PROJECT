@@ -95,10 +95,12 @@
   
   img{
    width: 100%;
+   
   }
   .photo{
      margin-top: 205px;
   }
+  
   }
   
   
@@ -1218,3 +1220,38 @@ h2{
 
 // XX-Large devices (larger desktops, 1400px and up)
 @media (min-width: 1400px) {  }
+@media (min-width:1399.98px) {
+  .home{
+    .pic{
+      margin-top: 10px;
+      object-fit: cover;
+    }
+    .pikicha{
+      margin-top: 12px;
+      object-fit: cover;
+    }
+    img{
+      object-fit: cover;
+    }
+  }
+  .contact{
+    .p-bottom-3{
+      width: 100%;
+    }
+    .pic{
+      height: 90vh;
+    object-fit: contain;
+    }
+    .click{
+      padding: 17px;
+      margin-top: 10px;
+    }
+      .col-md-6 {
+
+margin-top: 30px;
+
+      }
+  }
+  
+}
+
